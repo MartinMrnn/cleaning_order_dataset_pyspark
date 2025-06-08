@@ -1,0 +1,17 @@
+# Environnement virtuel
+venv/
+
+# Fichiers temporaires ou générés automatiquement
+artifacts/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
